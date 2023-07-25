@@ -35,9 +35,11 @@
 	]
 	quests: [
 		{
+			title: "Getting Started"
+			subtitle: "You know how to punch trees, right?"
+			description: "Hello, and welcome to Create: Arcane Engineering. "
 			x: 1.5d
 			y: -0.5d
-			subtitle: "You know how to punch trees, right? Before you get too invested in all the mods, just play some Minecraft. Build a house, build a farm, do the usual."
 			id: "2F63FB9E8EAC18BD"
 			tasks: [{
 				id: "4C7985B45293CFD6"
